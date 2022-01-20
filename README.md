@@ -5,9 +5,9 @@ Python3
 Some text editor (not necesary)
 
 <h3>Libraries you need to install for the projects to work: </h3>
-NumPy:        pip install numpy
-Pandas:       pip install pandas
-Scikit-Learn: pip install sklearn
+<br>NumPy:        pip install numpy
+<br>Pandas:       pip install pandas
+<br>Scikit-Learn: pip install sklearn
 
 <h3>Linux install: </h3>
 
