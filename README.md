@@ -1,9 +1,10 @@
 # MachineLearningFB
 
-installation of python3 needed to run project files
+<h3>Programs you need to install for the project to run: </h3>
+Python3
+Some text editor (not necesary)
 
-Libraries you need to install for the projects to work:
-
+<h3>Libraries you need to install for the projects to work: </h3>
 NumPy:        pip install numpy
 Pandas:       pip install pandas
 Scikit-Learn: pip install sklearn
